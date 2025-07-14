@@ -24,7 +24,7 @@
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tYUMhZK3uEIEjdbc6n7p-4" source="tYUMhZK3uEIEjdbc6n7p-8" target="tYUMhZK3uEIEjdbc6n7p-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tYUMhZK3uEIEjdbc6n7p-8" value="输入口令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-4">
+        <mxCell id="tYUMhZK3uEIEjdbc6n7p-8" value="进入首页，输入口令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-4">
           <mxGeometry x="50" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-23" value="返回PLP页面" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-4">
