@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-2" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130.00000000000045" y="50" width="329.99999999999955" height="470" as="geometry" />
+          <mxGeometry x="130.00000000000045" y="50" width="420" height="470" as="geometry" />
         </mxCell>
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-3" value="Customer" style="swimlane;startSize=20;html=1;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-2">
           <mxGeometry y="20" width="120" height="450" as="geometry" />
@@ -19,13 +19,13 @@
           <mxGeometry x="10" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-4" value="Api" style="swimlane;startSize=20;html=1;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-2">
-          <mxGeometry x="120" y="20" width="169.99999999999955" height="450" as="geometry" />
+          <mxGeometry x="120" y="20" width="260" height="450" as="geometry" />
         </mxCell>
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-8" value="输入口令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-4">
-          <mxGeometry x="50" y="60" width="110" height="60" as="geometry" />
+          <mxGeometry x="50" y="60" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tYUMhZK3uEIEjdbc6n7p-5" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="tYUMhZK3uEIEjdbc6n7p-2">
-          <mxGeometry x="289.99999999999955" y="20" width="40" height="450" as="geometry" />
+          <mxGeometry x="380" y="20" width="40" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
