@@ -64,7 +64,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktYqP0LJerJn19KGfaEJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="AtW5WMpdYYQ4KKWaK6Yu-14" target="ktYqP0LJerJn19KGfaEJ-4">
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#B5739D;" edge="1" parent="1" source="AtW5WMpdYYQ4KKWaK6Yu-14" target="ktYqP0LJerJn19KGfaEJ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktYqP0LJerJn19KGfaEJ-18" value="商品列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ktYqP0LJerJn19KGfaEJ-17">
@@ -104,7 +104,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktYqP0LJerJn19KGfaEJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtW5WMpdYYQ4KKWaK6Yu-16" target="AtW5WMpdYYQ4KKWaK6Yu-14">
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#B5739D;" edge="1" parent="1" source="AtW5WMpdYYQ4KKWaK6Yu-16" target="AtW5WMpdYYQ4KKWaK6Yu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktYqP0LJerJn19KGfaEJ-20" value="&lt;font color=&quot;#b5739d&quot;&gt;微信小店商品列表&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ktYqP0LJerJn19KGfaEJ-19">
