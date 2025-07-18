@@ -154,8 +154,8 @@
         <mxCell id="ktYqP0LJerJn19KGfaEJ-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;微信小程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-230" y="290" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ktYqP0LJerJn19KGfaEJ-21" value="微信小程序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="90" width="60" height="30" as="geometry" />
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;微信小程序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
