@@ -146,9 +146,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktYqP0LJerJn19KGfaEJ-11" value="用户点击商品跳转微信小店" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ktYqP0LJerJn19KGfaEJ-10" vertex="1" connectable="0">
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户点击商品跳转微信小店&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ktYqP0LJerJn19KGfaEJ-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1003" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="45" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ktYqP0LJerJn19KGfaEJ-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;微信小程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
