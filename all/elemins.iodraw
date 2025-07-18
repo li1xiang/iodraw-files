@@ -138,7 +138,7 @@
         <mxCell id="ktYqP0LJerJn19KGfaEJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ktYqP0LJerJn19KGfaEJ-4" target="AtW5WMpdYYQ4KKWaK6Yu-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ktYqP0LJerJn19KGfaEJ-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ktYqP0LJerJn19KGfaEJ-12">
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-13" value="微信小店商品列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ktYqP0LJerJn19KGfaEJ-12">
           <mxGeometry x="-0.4723" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
