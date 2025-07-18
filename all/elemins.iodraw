@@ -157,8 +157,11 @@
         <mxCell id="ktYqP0LJerJn19KGfaEJ-21" value="&lt;font color=&quot;#b5739d&quot; style=&quot;font-size: 22px;&quot;&gt;微信小程序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-210" y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cyiYuX6u-Trh1dKe5P5-1" value="WEB端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_cyiYuX6u-Trh1dKe5P5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="20" width="350" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="_cyiYuX6u-Trh1dKe5P5-2" value="WEB端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
