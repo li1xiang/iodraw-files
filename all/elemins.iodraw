@@ -122,6 +122,9 @@
         <mxCell id="ktYqP0LJerJn19KGfaEJ-3" value="MNP" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-290" width="320" height="640" as="geometry" />
         </mxCell>
+        <mxCell id="ktYqP0LJerJn19KGfaEJ-4" value="微信小程勋" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
