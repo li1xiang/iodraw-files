@@ -45,7 +45,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-9" target="r5afTEvEh8PKuM88hcEe-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5afTEvEh8PKuM88hcEe-20">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-21" value="活动开始阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5afTEvEh8PKuM88hcEe-20">
           <mxGeometry x="-0.2917" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -62,8 +62,8 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="用户扫描二维码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-19" value="" style="whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="790" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="r5afTEvEh8PKuM88hcEe-19" value="用户点击输入信息" style="whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="790" y="190" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
