@@ -7,11 +7,10 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="10" width="1210" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-2" target="r5afTEvEh8PKuM88hcEe-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;用户扫描二维码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="110" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="r5afTEvEh8PKuM88hcEe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="r5afTEvEh8PKuM88hcEe-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-3" target="r5afTEvEh8PKuM88hcEe-5">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +50,9 @@
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-17" value="该阶段展示参与活动的商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
