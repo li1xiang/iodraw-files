@@ -15,7 +15,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-3" target="r5afTEvEh8PKuM88hcEe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-3" value="进入菲闪小程序" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-3" value="进入菲闪小程序" style="whiteSpace=wrap;html=1;align=left;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-5" target="r5afTEvEh8PKuM88hcEe-9">
@@ -51,7 +51,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-17" value="该阶段展示参与活动的商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="用户扫描二维码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="用户扫描二维码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
