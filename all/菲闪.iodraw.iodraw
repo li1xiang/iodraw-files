@@ -131,8 +131,8 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-55" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;B端运维流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="455" y="980" width="355" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1169" width="120" height="60" as="geometry" />
+        <mxCell id="r5afTEvEh8PKuM88hcEe-58" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1169" width="280" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
