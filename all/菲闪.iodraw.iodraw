@@ -132,7 +132,13 @@
           <mxGeometry x="455" y="980" width="355" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-58" value="活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1169" width="280" height="101" as="geometry" />
+          <mxGeometry x="175" y="1160" width="280" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-59" target="r5afTEvEh8PKuM88hcEe-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-59" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1160" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
