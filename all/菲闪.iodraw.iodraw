@@ -150,7 +150,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-71" value="下载模版" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1360" width="350" height="72.63" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-73" value="将商品数据按照模版填充" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-73" value="将商品数据按照模版填充，并上传" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="1530" width="375" height="111.05" as="geometry" />
         </mxCell>
       </root>
