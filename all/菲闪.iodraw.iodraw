@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8XVcbWGeecAQLEzvvbzF">
-    <mxGraphModel dx="2879" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,14 +138,14 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-59" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-68" target="r5afTEvEh8PKuM88hcEe-71">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-72" value="活动关联商品" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-68" target="r5afTEvEh8PKuM88hcEe-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-68" value="活动创建，填写基本信息" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="1139.5" width="300" height="105.25" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-71" value="" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="1347.38" width="350" height="72.63" as="geometry" />
+          <mxGeometry x="640" y="1360" width="350" height="72.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
