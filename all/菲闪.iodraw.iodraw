@@ -25,8 +25,19 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-5" value="首页展示所有进行活动" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-9" target="r5afTEvEh8PKuM88hcEe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5afTEvEh8PKuM88hcEe-12">
+          <mxGeometry x="0.0849" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-9" value="活动生命周期" style="rhombus;whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-11" value="" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
