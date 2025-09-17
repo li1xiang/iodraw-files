@@ -62,8 +62,14 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="用户扫描二维码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-19" target="r5afTEvEh8PKuM88hcEe-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-19" value="用户点击输入信息：手机号，姓名，口令等" style="whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="800" y="200" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-22" value="" style="rhombus;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
