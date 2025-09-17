@@ -138,7 +138,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-59" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-68" value="活动创建" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-68" value="活动创建，填写基本信息" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="1114.75" width="280" height="150.5" as="geometry" />
         </mxCell>
       </root>
