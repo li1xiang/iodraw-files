@@ -129,6 +129,9 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-58" target="r5afTEvEh8PKuM88hcEe-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-58" target="r5afTEvEh8PKuM88hcEe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-58" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;活动管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="175" y="1139.5" width="280" height="101" as="geometry" />
         </mxCell>
@@ -139,7 +142,7 @@
           <mxGeometry x="-20" y="1160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-68" value="活动创建，填写基本信息" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1114.75" width="300" height="105.25" as="geometry" />
+          <mxGeometry x="660" y="1139.5" width="300" height="105.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
