@@ -19,7 +19,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-3" value="进入菲闪小程序" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-5" value="" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-5" value="首页展示所有进行活动" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
