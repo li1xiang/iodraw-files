@@ -135,6 +135,9 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-59" target="r5afTEvEh8PKuM88hcEe-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-59" target="r5afTEvEh8PKuM88hcEe-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-59" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="1372.63" width="30" height="60" as="geometry" />
         </mxCell>
@@ -152,6 +155,9 @@
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-73" value="将商品数据按照模版填充，并上传" style="whiteSpace=wrap;html=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="1530" width="375" height="111.05" as="geometry" />
+        </mxCell>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-77" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1372.63" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
