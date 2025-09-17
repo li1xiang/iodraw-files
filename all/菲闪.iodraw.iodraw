@@ -65,10 +65,8 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户扫描二维码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="r5afTEvEh8PKuM88hcEe-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="270" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="r5afTEvEh8PKuM88hcEe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-19" target="r5afTEvEh8PKuM88hcEe-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户点击输入信息：手机号，姓名，口令等&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="920" y="190" width="270" height="80" as="geometry" />
@@ -90,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;口令验证&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="360" width="85" height="80" as="geometry" />
+          <mxGeometry x="1012.5" y="360" width="85" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-25" target="r5afTEvEh8PKuM88hcEe-46">
           <mxGeometry relative="1" as="geometry" />
