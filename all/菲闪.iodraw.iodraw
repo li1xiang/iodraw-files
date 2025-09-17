@@ -134,7 +134,7 @@
         <mxCell id="r5afTEvEh8PKuM88hcEe-54" value="C端用户流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r5afTEvEh8PKuM88hcEe-55" value="B端运维流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1030" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
