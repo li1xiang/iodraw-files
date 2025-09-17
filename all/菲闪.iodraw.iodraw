@@ -33,8 +33,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-9" target="r5afTEvEh8PKuM88hcEe-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r5afTEvEh8PKuM88hcEe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r5afTEvEh8PKuM88hcEe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-16" value="展示阶段" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r5afTEvEh8PKuM88hcEe-15">
           <mxGeometry x="-0.1797" y="2" relative="1" as="geometry">
@@ -46,9 +48,6 @@
         </mxCell>
         <mxCell id="r5afTEvEh8PKuM88hcEe-11" value="用户预约活动，订阅消息" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r5afTEvEh8PKuM88hcEe-14" value="此阶段展示可内购商品" style="whiteSpace=wrap;html=1;align=left;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
